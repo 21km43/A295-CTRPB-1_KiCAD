@@ -1,0 +1,2 @@
+# A295-CTRPB-1_KiCAD
+KiCAD library for A295-CTRPB-1
